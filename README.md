@@ -1,2 +1,2 @@
 # C-Basic-code-
-Try to lean 
+This is the basic code which had to be done  
